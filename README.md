@@ -1,6 +1,6 @@
 
 <h1 align="center">Привет, меня зовут Зураб, <a href="https://github.com/Zurab06" target="_blank">Зураб</a> являюсь frontend - разработчиком
- height="32"/></h1>
+ </h1>
 ### В своих проектах использую следущие технологии
 
 <p>
