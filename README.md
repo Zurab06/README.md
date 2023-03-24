@@ -1,7 +1,7 @@
 
-<h1 align="center">𝘏𝘪 𝘵𝘩𝘦𝘳𝘦, 𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 , <a href="https://github.com/Ingushetiya" target="_blank">Said</a> 𝘐'𝘮 23 𝘺.𝘰. 𝘍𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳.
+<h1 align="center">Привет, меня зовут Зураб, <a href="https://github.com/Zurab06" target="_blank">Зураб</a> являюсь frontend - разработчиком
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-### Использую следующие технологии:
+### В своих проектах использую следущие технологии
 
 <p>
   
@@ -22,4 +22,4 @@ ____
 
 
 ## Связь со мной: 
-![Telegram](https://t.me/Martazanov_Said)
+![Telegram](https://t.me/gaunt0066)
