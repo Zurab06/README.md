@@ -1,5 +1,5 @@
 
-<h1 align="center">Привет, меня зовут Зураб, <a href="https://github.com/Zurab06" target="_blank">Зураб</a> являюсь frontend - разработчиком
+<h1 align="center">Привет, меня зовут <a href="https://github.com/Zurab06" target="_blank">Зураб</a>,  являюсь frontend - разработчиком
  </h1>
 ### В своих проектах использую следущие технологии
 
@@ -14,7 +14,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-mongo_DB-white?style=for-the-badge&logo=mongoDB&logoColor=43853d" /> 
   <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
   <img alt="CSS 3" src="https://img.shields.io/badge/-jsonwebtoken-yellow?style=for-the-badge">
-   <img alt="CSS 3" src="https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642">
+   <img alt="express" src="https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642">
  
 
 
