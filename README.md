@@ -4,11 +4,7 @@
  <h2  align="center">В своих проектах использую следущие технологии<h2/>
 
 <p>
-  <h4>React<h4/>
-<h4>React<h4/>
- <h4>React<h4/>
-  <h4>React<h4/>
-  <h4>React<h4/>
+<div>React<div/>
 
 </p>
 
